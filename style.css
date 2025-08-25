@@ -1,6 +1,6 @@
 body {
-    background: #fff;
-    color: #000;
+    background: #333;
+    color: #EEE;
     font-family: monospace;
     margin: 2em;
 }
@@ -21,7 +21,7 @@ li {
 }
 
 a {
-    color: #000;
+    color: #91ff00;
     text-decoration: underline;
     font-family: monospace;
 }
