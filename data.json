@@ -5,14 +5,17 @@
       { "label": "portfolio", "url": "http://portfolio-naoxink.vercel.app" },
       { "label": "fechasvarias", "url": "https://fechasvarias.vercel.app" },
       { "label": "Tengo en Blu-ray", "url": "https://naoxink.github.io/tengoenbr/" },
-      { "label": "GW2 Fractals", "url": "https://naoxink.github.io/Mazs/index.html?lang=es" }
+      { "label": "GW2 Fractals", "url": "https://naoxink.github.io/Mazs/index.html?lang=es" },
+      { "label": "Calculadora de descuentos", "url": "https://descuentos-nxk.vercel.app/" }
       
     ]
   },
   {
     "title": "Otros",
     "items": [
-      { "label": "Oráculo Mausolea", "url": "https://mausolea.vercel.app/" }
+      { "label": "Oráculo Mausolea", "url": "https://mausolea.vercel.app/" },
+      { "label": "Porcentaje de año", "url": "https://naoxink.github.io/yearpercent/" },
+      { "label": "Voltio default", "url": "https://naoxink.github.io/voltio-default/" }
     ]
   }
 ]
