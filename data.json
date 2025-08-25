@@ -1,0 +1,18 @@
+[
+  {
+    "title": "En uso",
+    "items": [
+      { "label": "portfolio", "url": "http://portfolio-naoxink.vercel.app" },
+      { "label": "fechasvarias", "url": "https://fechasvarias.vercel.app" },
+      { "label": "Tengo en Blu-ray", "url": "https://naoxink.github.io/tengoenbr/" },
+      { "label": "GW2 Fractals", "url": "https://naoxink.github.io/Mazs/index.html?lang=es" }
+      
+    ]
+  },
+  {
+    "title": "Otros",
+    "items": [
+      { "label": "Oráculo Mausolea", "url": "https://mausolea.vercel.app/" }
+    ]
+  }
+]
