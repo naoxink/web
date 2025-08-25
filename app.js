@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (lastModified) {
                     const footer = document.createElement('footer');
                     footer.id = 'modificacion';
-                    footer.textContent = `Última modificación de datos: ${new Date(lastModified).toLocaleString()}`;
+                    footer.textContent = `Última modificación de datos: ${new Date(lastModified).toLocaleString().split(', ').shift()}`;
                     document.body.appendChild(footer);
                 }
             });
